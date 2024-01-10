@@ -8,14 +8,25 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Projects
 
-- [MicchelFAB/42Porto-lvl_0_libft]<!--(https://github.com/MicchelFAB/42Porto-lvl_0_libft)-->
-- [MicchelFAB/42Porto_lvl_1_ft_printf]<!--(https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf)-->
-- [MicchelFAB/42Porto-lvl_1_get_next_line]<!--(https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line)-->
-- [MicchelFAB/42Porto-lvl_2_push_swap]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_push_swap)-->
-- [MicchelFAB/42Porto-lvl_2_so_long]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_so_long)-->
-- [MicchelFAB/42Porto-lvl_2_minitalk]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_minitalk)-->
-- [MicchelFAB/42Porto-lvl_3_philosophers]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_philosophers)-->
-- [MicchelFAB/42Porto-lvl_3_minishell]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_minishell)-->
+<details>
+  <summary> <b>42 Porto</b></summary>
+  
+  #### Level 0
+  - [Libft]<!--(https://github.com/MicchelFAB/42Porto-lvl_0_libft)-->
+  #### Level 1
+  - [ft_printf]<!--(https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf)-->
+  - [get_next_line]<!--(https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line)-->
+  #### Level 2
+  - [push_swap]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_push_swap)-->
+  - [so_long]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_so_long)-->
+  - [minitalk]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_minitalk)-->
+  #### Level 3
+  - [Philosophers]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_philosophers)-->
+  - [minishell]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_minishell)-->
+
+</details>
+
+
 
 ## Skills
 
