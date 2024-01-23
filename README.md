@@ -9,23 +9,31 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 ## Projects
 
 <details>
-  <summary> <b>42 Porto</b></summary>
-  
-  #### Level 0
-  - [Libft](https://github.com/MicchelFAB/42Porto-lvl_0_libft)
-  #### Level 1
-  - [ft_printf]<!--(https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf)-->
-  - [get_next_line]<!--(https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line)-->
-  #### Level 2
-  - [push_swap]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_push_swap)-->
-  - [so_long]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_so_long)-->
-  - [minitalk]<!--(https://github.com/MicchelFAB/42Porto-lvl_2_minitalk)-->
-  #### Level 3
-  - [Philosophers]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_philosophers)-->
-  - [minishell]<!--(https://github.com/MicchelFAB/42Porto-lvl_3_minishell)-->
-  #### Level 4
-  - [Netpractice]<!--(https://github.com/MicchelFAB/42Porto-lvl_4_netpractice)-->
-
+	<summary> <b>42 Porto</b></summary>
+	<details>
+		<summary> <b>Level 0</b></summary>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_0_libft">Libft</a>    
+	</details>
+	<details>
+		<summary> <b>Level 1</b></summary>
+		- ft_printf<!--<a href="https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf>- ft_printf</a>--></br>
+		- get_next_line<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line></a>--></br>
+	</details>
+	<details>
+		<summary> <b>Level 2</b></summary>
+		- push_swap<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap></a>--></br>
+		- so_long<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long></a>--></br>
+		- minitalk<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk></a>--></br>
+	</details>
+	<details>
+		<summary> <b>Level 3</b></summary>
+		- Philosophers<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers></a>--></br>
+		- minishell<!--<a href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell></a>--></br>
+	</details>
+	<details>
+		<summary> <b>Level 4</b></summary>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
+	</details>
 </details>
 
 
