@@ -64,7 +64,7 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 ## Contact
 
 - 📫  How to reach me: [michel_fab@outlook.com](mailto:michel_fab@outlook.com)
-- 42 Profile: [42 stats](https://badge.mediaplus.ma/kettlebells/mamaral-?UM6P=off)
+- 42 Profile: [MAmaral-](https://badge.mediaplus.ma/kettlebells/mamaral-?UM6P=off)
 - LinkedIn: [Michel F A Batista](www.linkedin.com/in/michel-f-a-batista-9ab3092ab)
 
 ## 42 Stats
