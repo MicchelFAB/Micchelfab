@@ -1,4 +1,4 @@
-# 🐕 Hi there, I'm Michel Batista! 👋
+# Hi there, I'm Michel Batista! 👋
 
 
 
