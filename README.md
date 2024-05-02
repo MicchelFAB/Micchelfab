@@ -1,6 +1,6 @@
 # Hi there, I'm Michel Batista! 👋
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
