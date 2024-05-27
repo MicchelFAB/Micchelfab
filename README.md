@@ -33,7 +33,7 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 	<details>
 		<summary> <b>Level 4</b></summary>
 		- <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
-		- <a href=https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
 	</details>
 </details>
 
