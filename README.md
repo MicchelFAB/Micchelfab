@@ -1,6 +1,6 @@
 # Hi there, I'm Michel Batista! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
@@ -71,7 +71,7 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 ## 42 Stats
 
 <p align="center">
-	<a href="https://profile.intra.42.fr/users/mamaral-"><img src="https://badge.mediaplus.ma/kettlebells/mamaral-?UM6P=off" alt="mamaral-'s 42 stats" />
+	<a href="https://profile.intra.42.fr/users/mamaral-"><img src="https://badge.mediaplus.ma/darkgray/mamaral-" alt="mamaral-'s 42 stats" />
 	</a>
 </p>
 
