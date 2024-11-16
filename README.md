@@ -8,8 +8,7 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Projects
 
-<details>
-  <summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"></summary>
+<summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"></summary>
     <ul>
       <li>
         <details>
@@ -27,24 +26,24 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
       <li>
         <details>
           <summary> <b>Level 2</b></summary>
+          - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a></br>
           - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap">push_swap</a></br>
           - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long">so_long</a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a></br>
         </details>
       </li>
       <li>
         <details>
           <summary> <b>Level 3</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a></br>
           - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell">Minishell</a></br>
+          - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a></br>
         </details>
       </li>
       <li>
         <details>
           <summary> <b>Level 4</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
+          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04 </a></br>
           - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
-      - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04 </a></br>
+          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
         </details>
       </li>
     <li>
@@ -61,8 +60,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
       <!-- - <a href="https://github.com/MicchelFAB/42Porto-lvl_6_ft_transcendence">ft_Transcendence </a></br> -->
       </details>
     </ul>
-</details>
-
 
 ## Skills
 
