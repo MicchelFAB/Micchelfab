@@ -95,10 +95,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<script src="scripts/inspirational_phrases.js"></script>
-<p id="inspirational-phrase"></p>
-<script>
-  document.getElementById('inspirational-phrase').innerText = getRandomPhrase();
-</script>
+<p id="inspirational-phrase">Your inspirational phrase will appear here.</p>
 
 ---
