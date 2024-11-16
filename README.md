@@ -134,6 +134,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 The most rewarding bugs are the ones you fix on your own. 🐛</p>
+<p id="inspirational-phrase">💡 The best tools a programmer has are patience and perseverance. ⏳</p>
 
 ---
