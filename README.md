@@ -103,6 +103,6 @@ graph TD;
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔧 Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️</p>
+<p id="inspirational-phrase">🚀 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 😅</p>
 
 ---
