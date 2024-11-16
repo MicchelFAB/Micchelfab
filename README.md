@@ -103,9 +103,12 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 -->
 ## Contact
 
-- 📫  How to reach me: [michel_fab@outlook.com](mailto:michel_fab@outlook.com)
-- 42 Profile: [MAmaral-](https://badge.mediaplus.ma/kettlebells/mamaral-?UM6P=off)
-- LinkedIn: [Michel F A Batista](www.linkedin.com/in/michel-f-a-batista-9ab3092ab)
+
+|📫 | How to reach me: |
+|----------------------|--|
+| ![image](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=maildotru&logoColor=black) | [michel_fab@outlook.com](mailto:michel_fab@outlook.com)  |
+|![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) |[Michel F A Batista](www.linkedin.com/in/michel-f-a-batista-9ab3092ab) |
+| ![image](https://img.shields.io/badge/profile-ffffff?style=for-the-badge&logo=42&logoColor=black) |[MAmaral-](https://profile.intra.42.fr/users/mamaral-)|
 
 ## 42 Stats
 
@@ -134,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 The most rewarding bugs are the ones you fix on your own. 🐛</p>
+<p id="inspirational-phrase">🔍 Before software can be reusable, it first has to be usable. 🛠️</p>
 
 ---
