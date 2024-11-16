@@ -103,6 +103,6 @@ graph TD;
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 😅</p>
+<p id="inspirational-phrase">🔧 Write code that you’ll be proud to read six months later. 🕒</p>
 
 ---
