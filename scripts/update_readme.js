@@ -107,7 +107,6 @@ graph TD
     L5_ft_irc[ft_IRC]
   end
   
-  % Add hyperlinks
   click L0_Libft "https://github.com/MicchelFAB/42Porto-lvl_0_libft" "Go to Libft"
   click L1_ft_printf "https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf" "Go to ft_printf"
   click L1_get_next_line "https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line" "Go to get_next_line"
