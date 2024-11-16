@@ -95,6 +95,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">Your inspirational phrase will appear here.</p>
+<p id="inspirational-phrase">📚 Read the manual, but write the story. Your code matters. 📖</p>
 
 ---
