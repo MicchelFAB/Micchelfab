@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protection Ring Levels</title>
+    <style>
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ring {
+    position: absolute;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: space-between; /* Distribute top and bottom links */
+    align-items: center; /* Center horizontally */
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: 2px solid #4a90e2;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+    padding: 20px;
+    box-sizing: border-box; /* To include padding in the width/height calculation */
+}
+
+/* Color definitions */
+.ring.level-0 {
+    background-color: #FFFFFF; /* White */
+    width: 80px;
+    height: 80px;
+}
+
+.ring.level-1 {
+    background-color: #fff7b3; /* Yellow */
+    width: 170px;
+    height: 180px;
+}
+
+.ring.level-2 {
+    background-color: #ffe0b3; /* Light Orange */
+    width: 250px;
+    height: 300px;
+}
+
+.ring.level-3 {
+    background-color: #d9ffcc; /* Light Green */
+    width: 300px;
+    height: 400px;
+}
+
+.ring.level-4 {
+    background-color: #ffe6ee; /* Light Pink */
+    width: 400px;
+    height: 500px;
+}
+
+.ring.level-5 {
+    background-color: #ceeefd; /* Light Blue */
+    width: 450px;
+    height: 600px;
+}
+
+.ring.level-6 {
+    background-color: #e2daf1; /* Light Purple */
+    width: 500px;
+    height: 680px;
+}
+
+/* General rule for positioning project links */
+.ring .project-link:first-of-type {
+    margin-top: 10px; /* Ensure spacing below the title */
+    align-self: center; /* Center horizontally */
+}
+
+/* Adjust middle link for each ring level */
+.ring.level-5 .project-link:nth-of-type(2) {
+    margin-top: 500px; /* Push the middle link down for level-5 */
+    align-self: center;
+}
+
+.ring.level-4 .project-link:nth-of-type(2) {
+    margin-top: 400px; /* Push the middle link down for level-4 */
+    align-self: center;
+}
+
+.ring.level-2 .project-link:nth-of-type(2) {
+    margin-top: 190px; /* Push the middle link down for level-2 */
+    align-self: center;
+}
+
+/* Remove extra margin from the last link */
+.ring .project-link:last-of-type {
+    margin-bottom: 0;
+}
+
+.ring:hover {
+    transform: scale(1.2);
+}
+
+.ring h2 {
+    position: absolute;
+    top: 10px; /* Position at the top of the ring */
+    font-size: 16px;
+    font-weight: bold;
+    color: #4a90e2;
+    margin: 0;
+    text-align: center;
+    width: 100%; /* Center horizontally */
+}
+
+.project-link {
+    color: #4a90e2;
+    text-decoration: none;
+    margin: 5px 0;
+    font-size: 14px;
+    transition: color 0.2s;
+    display: block;
+    /* Ensure links are block elements for spacing */
+}
+
+.project-link:hover {
+    color: #333;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="ring level-6">
+            <h2>Level 6</h2>
+            <!-- <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_6_ft_transcendence">ft_Transcendence</a> -->
+        </div>
+        <div class="ring level-5">
+            <h2>Level 5</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_5_CPP_Piscine">CPP Piscine 05-09</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_5_Inception">Inception</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_5_ft_irc">ft_IRC</a>
+        </div>
+        <div class="ring level-4">
+            <h2>Level 4</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT</a>
+        </div>
+        <div class="ring level-3">
+            <h2>Level 3</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell">Minishell</a>
+        </div>
+        <div class="ring level-2">
+            <h2>Level 2</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap">push_swap</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long">so_long</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a>
+        </div>
+        <div class="ring level-1">
+            <h2>Level 1</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf">ft_printf</a>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line">get_next_line</a>
+        </div>
+        <div class="ring level-0">
+            <h2>Level 0</h2>
+            <a class="project-link" href="https://github.com/MicchelFAB/42Porto-lvl_0_libft">Libft</a>
+        </div>
+    </div>
+</body>
+
+</html>
