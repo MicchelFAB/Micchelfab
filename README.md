@@ -115,6 +115,6 @@ graph TD
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 First, solve the problem. Then, write the code. 💻</p>
+<p id="inspirational-phrase">🔧 Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️</p>
 
 ---
