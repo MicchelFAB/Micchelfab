@@ -6,45 +6,63 @@
 
 I am a student at [42 Porto](https://www.42porto.com/) passionate about coding and problem-solving. Currently pursuing a Master's Degree in Business alongside honing my programming skills.
 
-## Projects Overview
+## Projects
 
-## Project Levels
+<details>
+  <summary> <b>42 Porto</b></summary>
+  <ul>
+    <li>
+      <details>
+        <summary> <b>Level 0</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_0_libft">Libft</a>    
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary> <b>Level 1</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf">ft_printf</a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line">get_next_line</a></br>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary> <b>Level 2</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap">push_swap</a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long">so_long</a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a></br>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary> <b>Level 3</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell">Minishell</a></br>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary> <b>Level 4</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04 </a></br>
+      </details>
+    </li>
+	<li>
+	  <details>
+		<summary> <b>Level 5</b></summary>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_5_CPP_Piscine">CPP Piscine 05-09 </a></br>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_5_Inception">Inception </a></br>
+		- <a href="https://github.com/MicchelFAB/42Porto-lvl_5_ft_irc">ft_IRC </a></br>
+	  </details>
+	</li>
+	<li>
+	  <details>
+		<summary> <b>Level 6</b></summary>
+		<!-- - <a href="https://github.com/MicchelFAB/42Porto-lvl_6_ft_transcendence">ft_Transcendence </a></br> -->
+	  </details>
+  </ul>
+</details>
 
-```mermaid
-graph TD;
-  subgraph Level_3;
-    L3_philosophers[Philosophers];
-    L3_minishell[Minishell];
-  end;
-
-  subgraph Level_4;
-    L4_netpractice[Netpractice];
-    L4_miniRT[MiniRT];
-    L4_CPP_Piscine[CPP Piscine 00-04];
-  end;
-
-  subgraph Level_5;
-    L5_CPP_Piscine[CPP Piscine 05-09];
-    L5_Inception[Inception];
-    L5_ft_irc[ft_IRC];
-  end;
-
-  % Add hyperlinks;
-  click L0_Libft "https://github.com/MicchelFAB/42Porto-lvl_0_libft" "Go to Libft";
-  click L1_ft_printf "https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf" "Go to ft_printf";
-  click L1_get_next_line "https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line" "Go to get_next_line";
-  click L2_push_swap "https://github.com/MicchelFAB/42Porto-lvl_2_push_swap" "Go to push_swap";
-  click L2_so_long "https://github.com/MicchelFAB/42Porto-lvl_2_so_long" "Go to so_long";
-  click L2_minitalk "https://github.com/MicchelFAB/42Porto-lvl_2_minitalk" "Go to minitalk";
-  click L3_philosophers "https://github.com/MicchelFAB/42Porto-lvl_3_philosophers" "Go to Philosophers";
-  click L3_minishell "https://github.com/MicchelFAB/42Porto-lvl_3_minishell" "Go to Minishell";
-  click L4_netpractice "https://github.com/MicchelFAB/42Porto-lvl_4_netpractice" "Go to Netpractice";
-  click L4_miniRT "https://github.com/MicchelFAB/42Porto-lvl_4_miniRT" "Go to MiniRT";
-  click L4_CPP_Piscine "https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine" "Go to CPP Piscine 00-04";
-  click L5_CPP_Piscine "https://github.com/MicchelFAB/42Porto-lvl_5_CPP_Piscine" "Go to CPP Piscine 05-09";
-  click L5_Inception "https://github.com/MicchelFAB/42Porto-lvl_5_Inception" "Go to Inception";
-  click L5_ft_irc "https://github.com/MicchelFAB/42Porto-lvl_5_ft_irc" "Go to ft_IRC";
-```
 
 
 ## Skills
