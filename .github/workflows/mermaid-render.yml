@@ -1,0 +1,34 @@
+name: Render Mermaid Diagrams
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  render-mermaid:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install mermaid-cli
+        run: npm install -g @mermaid-js/mermaid-cli
+
+      - name: Render Mermaid diagrams
+        run: |
+          npx mmdc -i README.md -o rendered-diagram.png
+          mv rendered-diagram.png path/to/image.png
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add path/to/image.png
+          git commit -m "Update rendered Mermaid diagram"
+          git push
