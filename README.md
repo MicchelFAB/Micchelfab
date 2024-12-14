@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 A good programmer looks both ways before crossing a one-way street. 🛤️</p>
+<p id="inspirational-phrase">🎯 Every “Hello, World!” is a beginning of something extraordinary. 🌎</p>
 
 ---
