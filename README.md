@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 You don’t have to know everything; just know where to find it. 🔗</p>
+<p id="inspirational-phrase">💡 The best tools a programmer has are patience and perseverance. ⏳</p>
 
 ---
