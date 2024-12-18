@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌐 The best way to improve is to challenge yourself with real problems. 💪</p>
+<p id="inspirational-phrase">🚀 The best way to predict the future of technology is to build it yourself. 🛠️</p>
 
 ---
