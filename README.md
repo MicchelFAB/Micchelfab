@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 There’s no such thing as a bug-free program—just creative features. 😜</p>
+<p id="inspirational-phrase">📚 Good code is its own documentation. Write with clarity. 📝</p>
 
 ---
