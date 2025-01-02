@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔧 Make your code readable; future you will thank you for it. 🙏</p>
+<p id="inspirational-phrase">🎯 Challenges are the programmer’s playground. Dive in and have fun! 🛝</p>
 
 ---
