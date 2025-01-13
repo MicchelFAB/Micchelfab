@@ -2,7 +2,7 @@ name: Update README with Inspirational Phrase
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '* 6 * * *' # Runs every hour
   push:
     branches:
       - main
