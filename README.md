@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">✨ Programming isn't about what you know; it's about what you can figure out. 🧩</p>
+<p id="inspirational-phrase">🌟 Don't fear failure. Every bug is a lesson in disguise. 🐞</p>
 
 ---
