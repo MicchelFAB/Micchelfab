@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">✨ Complexity is easy; simplicity is hard. Strive for simplicity. 💡</p>
+<p id="inspirational-phrase">🚀 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 😅</p>
 
 ---
