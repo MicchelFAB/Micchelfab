@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 Efficiency is not just about speed; it’s about doing the right thing at the right time. ⏱️</p>
+<p id="inspirational-phrase">💡 A programmer's job is to think about the unthinkable and prepare for the impossible. 🤯</p>
 
 ---
