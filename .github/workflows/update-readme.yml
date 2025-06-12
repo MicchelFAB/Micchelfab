@@ -2,13 +2,18 @@ name: Update README with Inspirational Phrase
 
 on:
   schedule:
-    - cron: '* 6 * * *' # Runs every hour
+    - cron: '0 * * * *' # ou '0 */2 * * *' para cada 2 horas
   push:
     branches:
       - main
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
