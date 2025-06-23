@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">✨ Every line of code you write is a step closer to creating magic. 🪄</p>
+<p id="inspirational-phrase">🌐 Your first draft won’t be perfect. Code is meant to be rewritten. 🔄</p>
 
 ---
