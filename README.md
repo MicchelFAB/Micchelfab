@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 First, solve the problem. Then, write the code. 💻</p>
+<p id="inspirational-phrase">🚀 Great coders are not born; they are made by failing, learning, and improving. 🔄</p>
 
 ---
