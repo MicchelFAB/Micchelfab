@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 The only way to learn a new programming language is by writing programs in it. 💻</p>
+<p id="inspirational-phrase">🌟 First, solve the problem. Then, write the code. 💻</p>
 
 ---
