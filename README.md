@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 Don't fear failure. Every bug is a lesson in disguise. 🐞</p>
+<p id="inspirational-phrase">🌐 Dream big, start small, and keep shipping. 🚢</p>
 
 ---
