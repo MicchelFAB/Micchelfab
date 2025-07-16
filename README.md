@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 A good programmer looks both ways before crossing a one-way street. 🛤️</p>
+<p id="inspirational-phrase">🚀 Coding is not a sprint; it’s a marathon of creativity and problem-solving. 🏃‍♂️</p>
 
 ---
