@@ -137,6 +137,6 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Learning to write programs stretches your mind and helps you think better. 🧠</p>
+<p id="inspirational-phrase">🔧 Code without purpose is like a ship without a sail. Focus on the goal. 🎯</p>
 
 ---
