@@ -4,62 +4,7 @@
 
 ## About Me
 
-I am a student at [42 Porto](https://www.42porto.com/) passionate about coding and problem-solving. Currently pursuing a Master's Degree in Business alongside honing my programming skills.
-
-## Projects
-
-<summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"></summary>
-    <ul>
-      <li>
-        <details>
-          <summary> <b>Level 0</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_0_libft">Libft</a>    
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary> <b>Level 1</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf">ft_printf</a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line">get_next_line</a></br>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary> <b>Level 2</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap">push_swap</a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long">so_long</a></br>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary> <b>Level 3</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell">Minishell</a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a></br>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary> <b>Level 4</b></summary>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04 </a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
-          - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
-        </details>
-      </li>
-    <li>
-      <details>
-      <summary> <b>Level 5</b></summary>
-      - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_CPP_Piscine">CPP Piscine 05-09 </a></br>
-      - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_Inception">Inception </a></br>
-      - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_ft_irc">ft_IRC </a></br>
-      </details>
-    </li>
-    <li>
-      <details>
-      <summary> <b>Level 6</b></summary>
-      <!-- - <a href="https://github.com/MicchelFAB/42Porto-lvl_6_ft_transcendence">ft_Transcendence </a></br> -->
-      </details>
-    </ul>
+I am a passionate student at [42 Porto](https://www.42porto.com), currently at [SEA:ME](https://shaken.pt/projects/seame/) as a **Software Engineer Intern** and pursuing a Master's Degree in Management, focused on coding, problem-solving, and building efficient software systems.
 
 ## Skills
 
@@ -107,8 +52,65 @@ I am a student at [42 Porto](https://www.42porto.com/) passionate about coding a
 |📫 | How to reach me: |
 |----------------------|--|
 | ![image](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=maildotru&logoColor=black) | [michel_fab@outlook.com](mailto:michel_fab@outlook.com)  |
-|![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) |[Michel F A Batista](www.linkedin.com/in/michel-f-a-batista-9ab3092ab) |
+|![image](https://img.shields.io/badge/linkedin-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAeCAYAAABE4bxTAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+kIBA4QDuVpLiAAAAHxSURBVFjD7ZfPS1VBFMc/7/HUhSgEtdLaJLxRCwQFf9ROggSZhYv+gCRn0UIIBDftyoWGCIIwC90WtEimZYsgUgxypfJGrUWuXAQRgdhTui0c4zKM8uLpXBd+4XLnzBmGD+eeuedMTijTBywAReLoE/DAarkTcuYBHREGoBuYOsmZB24RXzdPA7pQCgHtAY9d5AaA7ZhAhcDcmNVyzo03hDL3HFRNVhF6nzaslt+AtSw/2Y200apMrT8XG2hGKHP9GCaBWeBqljkkgC9CmbXkKDLXsk5qgFqg8z/3SlyuHQItQONZAU0Cr72f2Cs3fgNMeL6XwHNg2mr541+YlekBXgB3qgXasVp+Tm28n/J9D/geWS3n/U2sliutyvQnR6e2t5qkrlg52ArBHKuk5W/gSbWnrGKVtCy7SDUJZQaFMu2hSAG7UYAczH3gK/AWWBfKjASWbUYDAsaBupQ9GlizHROoy7PbAmv+xASqP+/SceH6ofNQ7jJCl0CxlBPKJN7cMlBK2VeAodQf96O3fjiwr1/f7np3v1WrZZdrAgsJ1Fstf55U7fvcE1KxwkvlcIVl53YCHcC+UObAarmYd41VVmp0HWkHsCSUKeaBdxmALLl3DfDLdZoNQLkAPASeAe0RQBKXg0+dvesKcxlotlp++AseoIOGY9QbiAAAAABJRU5ErkJggg==) |[Michel F A Batista](www.linkedin.com/in/michel-f-a-batista-9ab3092ab) |
 | ![image](https://img.shields.io/badge/profile-ffffff?style=for-the-badge&logo=42&logoColor=black) |[MAmaral-](https://profile.intra.42.fr/users/mamaral-)|
+
+## Projects
+
+<details>
+  <summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"> </br> My Project Portfolio (click to expand) </summary>
+      <ul>
+        <li>
+          <details>
+            <summary> <b>Level 0</b></summary>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_0_libft">Libft</a>    
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary> <b>Level 1</b></summary>
+            - <a href="https://github.com/MicchelFAB/42Porto_lvl_1_ft_printf">ft_printf</a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_1_get_next_line">get_next_line</a></br>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary> <b>Level 2</b></summary>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_minitalk">minitalk</a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_push_swap">push_swap</a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_2_so_long">so_long</a></br>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary> <b>Level 3</b></summary>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_minishell">Minishell</a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_3_philosophers">Philosophers</a></br>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary> <b>Level 4</b></summary>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_CPP_Piscine">CPP Piscine 00-04 </a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_miniRT">MiniRT </a></br>
+            - <a href="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice">Netpractice </a></br>
+          </details>
+        </li>
+      <li>
+        <details>
+        <summary> <b>Level 5</b></summary>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_CPP_Piscine">CPP Piscine 05-09 </a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_Inception">Inception </a></br>
+        - <a href="https://github.com/MicchelFAB/42Porto-lvl_5_ft_irc">ft_IRC </a></br>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary> <b>Level 6</b></summary>
+        <!-- - <a href="https://github.com/MicchelFAB/42Porto-lvl_6_ft_transcendence">ft_Transcendence </a></br> -->
+        </details>
+      </ul>
+</details>
 
 ## 42 Stats
 
