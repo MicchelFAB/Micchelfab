@@ -139,6 +139,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Read the manual, but write the story. Your code matters. 📖</p>
+<p id="inspirational-phrase">🌟 You don’t have to know everything; just know where to find it. 🔗</p>
 
 ---
