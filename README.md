@@ -107,7 +107,7 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
       <li>
         <details>
         <summary> <b>Level 6</b></summary>
-        - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_6_ft_transcendence/README.md">ft_Transcendence </a></br>
+        - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_6_Transcendence/README.md">ft_Transcendence </a></br>
         </details>
       </ul>
 </details>
