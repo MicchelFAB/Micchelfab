@@ -69,7 +69,7 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
         <li>
           <details>
             <summary> <b>Level 1</b></summary>
-            - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto_lvl_1_ft_printf/README.md">ft_printf</a></br>
+            - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_1_ft_printf/README.md">ft_printf</a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_1_get_next_line/README.md">get_next_line</a></br>
           </details>
         </li>
