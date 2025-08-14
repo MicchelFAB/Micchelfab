@@ -1,3 +1,5 @@
+<!-- ![image info](https://www.codewars.com/users/mamaral42/badges/large) -->
+
 # Hi there, I'm Michel Batista! 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -7,6 +9,8 @@
 I am a passionate student at [42 Porto](https://www.42porto.com), currently at [SEA:ME](https://shaken.pt/projects/seame/) as a **Software Engineer Intern** and pursuing a Master's Degree in Management, focused on coding, problem-solving, and building efficient software systems.
 
 ## Skills
+
+<a href="https://app.daily.dev/michelbatista"><img src="https://api.daily.dev/devcards/v2/udH4KltTnLGl4TcAq1X41.png?type=wide&r=4mi" width="652" alt="Michel Batista's Dev Card"/></a>
 
 ### Programming
 
