@@ -6,11 +6,11 @@
 
 ## About Me
 
+<a href="https://app.daily.dev/michelbatista"><img src="https://api.daily.dev/devcards/v2/udH4KltTnLGl4TcAq1X41.png?type=wide&r=4mi" width="652" alt="Michel Batista's Dev Card"/></a>
+
 I am a passionate student at [42 Porto](https://www.42porto.com), currently at [SEA:ME](https://shaken.pt/projects/seame/) as a **Software Engineer Intern** and pursuing a Master's Degree in Management, focused on coding, problem-solving, and building efficient software systems.
 
 ## Skills
-
-<a href="https://app.daily.dev/michelbatista"><img src="https://api.daily.dev/devcards/v2/udH4KltTnLGl4TcAq1X41.png?type=wide&r=4mi" width="652" alt="Michel Batista's Dev Card"/></a>
 
 ### Programming
 
