@@ -2,8 +2,8 @@
 
 # Hi there, I'm Michel Batista! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://trophygh.kolioaris.xyz/?username=micchelfab&column=-1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ## About Me
 
 I am a passionate student at [42 Porto](https://www.42porto.com), currently at [SEA:ME](https://shaken.pt/projects/seame/) as a **Software Engineer Intern** and pursuing a Master's Degree in Management, focused on coding, problem-solving, and building efficient software systems.
