@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 A good programmer looks both ways before crossing a one-way street. 🛤️</p>
+<p id="inspirational-phrase">🎯 Every big project starts with a single line of code. 📝</p>
 
 ---
