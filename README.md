@@ -60,7 +60,7 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 ## Projects
 
 <details>
-  <summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"> </br> My Project Portfolio (click to expand) </summary>
+  <summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"> <b>🚀 <i>My Project Portfolio</i></b> <span style="color:#FFD700">(click to expand)</span> </summary>
       <ul>
         <li>
           <details>
