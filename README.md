@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 There’s no such thing as a bug-free program—just creative features. 😜</p>
+<p id="inspirational-phrase">🚀 The best way to predict the future of technology is to build it yourself. 🛠️</p>
 
 ---
