@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 Every big project starts with a single line of code. 📝</p>
+<p id="inspirational-phrase">🎯 The most reliable way to predict the future is to build it. 💻</p>
 
 ---
