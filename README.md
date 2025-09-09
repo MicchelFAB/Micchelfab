@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 The only way to learn a new programming language is by writing programs in it. 💻</p>
+<p id="inspirational-phrase">🔍 Every ‘undefined behavior’ is a puzzle waiting to be solved. 🧩</p>
 
 ---
