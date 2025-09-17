@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 Code is like humor. When you have to explain it, it’s bad. 😅</p>
+<p id="inspirational-phrase">💡 The best tools a programmer has are patience and perseverance. ⏳</p>
 
 ---
