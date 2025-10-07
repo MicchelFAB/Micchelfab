@@ -141,6 +141,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 A great developer never stops learning and improving. 🌱</p>
+<p id="inspirational-phrase">🚀 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 😅</p>
 
 ---
