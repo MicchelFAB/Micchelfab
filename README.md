@@ -63,63 +63,49 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
   <summary> <img src="https://img.shields.io/badge/porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"> <b>🚀 <i>My Project Portfolio</i></b> <span style="color:#FFD700">(click to expand)</span> </summary>
       <ul>
         <li>
-          <details>
             <summary> <b>Level 0</b></summary>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_0_libft/README.md">Libft</a>    
-          </details>
         </li>
         <li>
-          <details>
             <summary> <b>Level 1</b></summary>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_1_ft_printf/README.md">ft_printf</a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_1_get_next_line/README.md">get_next_line</a></br>
-          </details>
         </li>
         <li>
-          <details>
             <summary> <b>Level 2</b></summary>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_2_minitalk/README.md">minitalk</a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_2_push_swap/README.md">push_swap</a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_2_so_long/README.md">so_long</a></br>
-          </details>
         </li>
         <li>
-          <details>
             <summary> <b>Level 3</b></summary>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_3_minishell/README.md">Minishell</a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_3_philosophers/README.md">Philosophers</a></br>
-          </details>
         </li>
         <li>
-          <details>
             <summary> <b>Level 4</b></summary>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_4_CPP_Piscine/README.md">CPP Piscine 00-04 </a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_4_miniRT/README.md">MiniRT </a></br>
             - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_4_netpractice/README.md">Netpractice </a></br>
-          </details>
         </li>
       <li>
-        <details>
         <summary> <b>Level 5</b></summary>
         - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_5_CPP_Piscine/README.md">CPP Piscine 05-09 </a></br>
         - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_5_Inception/README.md">Inception </a></br>
         - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_5_ft_irc/README.md">ft_IRC </a></br>
-        </details>
       </li>
       <li>
-        <details>
         <summary> <b>Level 6</b></summary>
         - <a href="https://github.com/MicchelFAB/42Projects/blob/main/42Porto-lvl_6_Transcendence/README.md">ft_Transcendence </a></br>
-        </details>
       </ul>
 </details>
 
-## 42 Stats
+<!-- ## 42 Stats
 
-<p align="center">
+ <p align="center">
 	<a href="https://profile.intra.42.fr/users/mamaral-"><img src="https://badge.mediaplus.ma/darkgray/mamaral-" alt="mamaral-'s 42 stats" />
 	</a>
-</p>
+</p> -->
 
 ## GitHub Stats
 <table style="border: none;">
