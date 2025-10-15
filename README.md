@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">✨ Programming isn't about what you know; it's about what you can figure out. 🧩</p>
+<p id="inspirational-phrase">🚀 Efficiency is not just about speed; it’s about doing the right thing at the right time. ⏱️</p>
 
 ---
