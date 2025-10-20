@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 The best tools a programmer has are patience and perseverance. ⏳</p>
+<p id="inspirational-phrase">🚀 Coding is not a sprint; it’s a marathon of creativity and problem-solving. 🏃‍♂️</p>
 
 ---
