@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 A great developer never stops learning and improving. 🌱</p>
+<p id="inspirational-phrase">🌐 Dream big, start small, and keep shipping. 🚢</p>
 
 ---
