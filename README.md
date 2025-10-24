@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 The best error message is the one that never shows up. 🔧</p>
+<p id="inspirational-phrase">🎯 The most reliable way to predict the future is to build it. 💻</p>
 
 ---
