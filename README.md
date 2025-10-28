@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Sometimes, the best solution is to start fresh. Don’t be afraid to refactor. 🔄</p>
+<p id="inspirational-phrase">🌐 Make it work, make it right, make it fast. 🚀</p>
 
 ---
