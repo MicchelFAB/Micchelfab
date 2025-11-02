@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 Master the basics, and the rest will follow. 🛤️</p>
+<p id="inspirational-phrase">🔧 Code without purpose is like a ship without a sail. Focus on the goal. 🎯</p>
 
 ---
