@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 Every ‘undefined behavior’ is a puzzle waiting to be solved. 🧩</p>
+<p id="inspirational-phrase">📚 Learning to write programs stretches your mind and helps you think better. 🧠</p>
 
 ---
