@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 If you control your code, you control your destiny. ✨</p>
+<p id="inspirational-phrase">🌟 You don’t have to know everything; just know where to find it. 🔗</p>
 
 ---
