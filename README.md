@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 Before software can be reusable, it first has to be usable. 🛠️</p>
+<p id="inspirational-phrase">🔧 Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️</p>
 
 ---
