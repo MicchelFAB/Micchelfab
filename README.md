@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔧 Write code that you’ll be proud to read six months later. 🕒</p>
+<p id="inspirational-phrase">🔍 Before software can be reusable, it first has to be usable. 🛠️</p>
 
 ---
