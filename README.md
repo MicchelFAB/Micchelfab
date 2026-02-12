@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔍 A good programmer looks both ways before crossing a one-way street. 🛤️</p>
+<p id="inspirational-phrase">🚀 The best way to predict the future of technology is to build it yourself. 🛠️</p>
 
 ---
