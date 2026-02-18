@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), currently at [
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 The most reliable way to predict the future is to build it. 💻</p>
+<p id="inspirational-phrase">🔧 Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️</p>
 
 ---
