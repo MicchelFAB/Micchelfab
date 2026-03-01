@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 Master the basics, and the rest will follow. 🛤️</p>
+<p id="inspirational-phrase">🚀 The best way to predict the future of technology is to build it yourself. 🛠️</p>
 
 ---
