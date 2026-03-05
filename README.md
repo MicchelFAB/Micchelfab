@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 The most reliable way to predict the future is to build it. 💻</p>
+<p id="inspirational-phrase">💡 Code is poetry, and every developer is a poet in their unique style. ✍️</p>
 
 ---
