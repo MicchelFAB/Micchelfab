@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 The only way to learn a new programming language is by writing programs in it. 💻</p>
+<p id="inspirational-phrase">💡 Code is like humor. When you have to explain it, it’s bad. 😅</p>
 
 ---
