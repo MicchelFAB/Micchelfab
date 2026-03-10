@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 Every “Hello, World!” is a beginning of something extraordinary. 🌎</p>
+<p id="inspirational-phrase">📚 There’s no such thing as a bug-free program—just creative features. 😜</p>
 
 ---
