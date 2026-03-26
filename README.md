@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌐 Dream big, start small, and keep shipping. 🚢</p>
+<p id="inspirational-phrase">📚 There’s no such thing as a bug-free program—just creative features. 😜</p>
 
 ---
