@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 First, solve the problem. Then, write the code. 💻</p>
+<p id="inspirational-phrase">💡 A programmer's job is to think about the unthinkable and prepare for the impossible. 🤯</p>
 
 ---
