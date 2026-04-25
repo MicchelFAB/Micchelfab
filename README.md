@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Debugging is twice as hard as writing the code, so write your code carefully. 🤔</p>
+<p id="inspirational-phrase">📚 Sometimes, the best solution is to start fresh. Don’t be afraid to refactor. 🔄</p>
 
 ---
