@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔧 Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️</p>
+<p id="inspirational-phrase">🌟 Progress is impossible without change, and coding is all about creating change. 💻</p>
 
 ---
