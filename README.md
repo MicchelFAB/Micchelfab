@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🔧 Write code that you’ll be proud to read six months later. 🕒</p>
+<p id="inspirational-phrase">💡 Master the basics, and the rest will follow. 🛤️</p>
 
 ---
