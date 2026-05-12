@@ -127,6 +127,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 If you control your code, you control your destiny. ✨</p>
+<p id="inspirational-phrase">🔍 A good programmer looks both ways before crossing a one-way street. 🛤️</p>
 
 ---
