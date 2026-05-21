@@ -39,7 +39,7 @@ jobs:
           files=(profile/*.svg)
 
           if [ ${#files[@]} -eq 0 ]; then
-            echo "No generated SVG files found."
+            echo "No SVG files found in profile/ directory. Check if the card generation steps completed successfully."
             exit 1
           fi
 
