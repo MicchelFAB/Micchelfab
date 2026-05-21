@@ -35,7 +35,15 @@ jobs:
         env:
           ERROR_PATTERNS: "Something went wrong!|Downtime due to GitHub API rate limiting"
         run: |
-          if grep -Eq "$ERROR_PATTERNS" profile/*.svg; then
+          shopt -s nullglob
+          files=(profile/*.svg)
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No generated SVG files found."
+            exit 1
+          fi
+
+          if grep -Eq "$ERROR_PATTERNS" "${files[@]}"; then
             echo "Generated SVG contains an upstream API error message."
             exit 1
           fi
