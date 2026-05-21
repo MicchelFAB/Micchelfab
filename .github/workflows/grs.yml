@@ -19,8 +19,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=micchelfab&show_icons=true&hide_border=true&hide_title=true&theme=transparent
           path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=micchelfab&hide_border=true&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
