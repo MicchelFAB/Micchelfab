@@ -111,11 +111,12 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=micchelfab&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Top Langs" style="border: none;" />
+      <img src="./profile/stats.svg" alt="GitHub Stats" style="border: none;" />
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micchelfab&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="border: none;"/>
+      <img src="./profile/top-langs.svg" alt="GitHub Top Languages" style="border: none;" />
     </td>
+  </tr>
 </table>
 <table style="border: none;" align="center" >
 	<td style="border: none;">
