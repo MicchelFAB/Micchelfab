@@ -32,8 +32,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate generated cards
+        env:
+          ERROR_PATTERNS: "Something went wrong!|Downtime due to GitHub API rate limiting"
         run: |
-          if grep -Eq "Something went wrong!|Downtime due to GitHub API rate limiting" profile/*.svg; then
+          if grep -Eq "$ERROR_PATTERNS" profile/*.svg; then
             echo "Generated SVG contains an upstream API error message."
             exit 1
           fi
