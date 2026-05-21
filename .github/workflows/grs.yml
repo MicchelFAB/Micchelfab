@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=micchelfab&show_icons=true&hide_border=true&hide_title=true&theme=transparent
           path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,24 @@ jobs:
           card: top-langs
           options: username=micchelfab&hide_border=true&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate generated cards
+        env:
+          ERROR_PATTERNS: "Something went wrong!|Downtime due to GitHub API rate limiting"
+        run: |
+          shopt -s nullglob
+          files=(profile/*.svg)
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No SVG files found in profile/ directory. Check if the card generation steps completed successfully."
+            exit 1
+          fi
+
+          if grep -Eq "$ERROR_PATTERNS" "${files[@]}"; then
+            echo "Generated SVG contains an upstream API error message."
+            exit 1
+          fi
 
       - name: Commit cards
         run: |
