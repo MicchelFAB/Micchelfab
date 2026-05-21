@@ -128,6 +128,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 The best tools a programmer has are patience and perseverance. ⏳</p>
+<p id="inspirational-phrase">📚 There’s no such thing as a bug-free program—just creative features. 😜</p>
 
 ---
