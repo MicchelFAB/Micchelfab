@@ -128,6 +128,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🎯 Code never lies, comments sometimes do. 💬</p>
+<p id="inspirational-phrase">🚀 Great coders are not born; they are made by failing, learning, and improving. 🔄</p>
 
 ---
