@@ -128,6 +128,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Learning to write programs stretches your mind and helps you think better. 🧠</p>
+<p id="inspirational-phrase">🔧 Write code that you’ll be proud to read six months later. 🕒</p>
 
 ---
