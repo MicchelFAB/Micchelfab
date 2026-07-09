@@ -128,6 +128,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌐 Your first draft won’t be perfect. Code is meant to be rewritten. 🔄</p>
+<p id="inspirational-phrase">🚀 The best way to predict the future of technology is to build it yourself. 🛠️</p>
 
 ---
