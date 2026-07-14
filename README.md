@@ -128,6 +128,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌟 First, solve the problem. Then, write the code. 💻</p>
+<p id="inspirational-phrase">🚀 Coding is not a sprint; it’s a marathon of creativity and problem-solving. 🏃‍♂️</p>
 
 ---
