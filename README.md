@@ -120,7 +120,8 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 </table>
 <table style="border: none;" align="center" >
 	<td style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=micchelfab&hide_border=true" style="border: none;"/>
+      <!-- <img src="https://streak-stats.demolab.com?user=micchelfab&hide_border=true" style="border: none;"/> -->
+	  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
