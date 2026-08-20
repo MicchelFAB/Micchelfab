@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Michel Batista's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 60, Total PRs: 52, Total Issues: 10, Contributed to (last year): 2</desc>
+        <title id="titleId">Michel Batista&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 40, Total PRs: 52, Total Issues: 10, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 145.2325111166677;
+        stroke-dashoffset: 147.32262445000623;
       }
     }
   
@@ -145,7 +145,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >19</text>
@@ -160,10 +160,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
-      >60</text>
+      >40</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -175,7 +175,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >52</text>
@@ -190,7 +190,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >10</text>
@@ -205,7 +205,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >2</text>
