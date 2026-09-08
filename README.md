@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🚀 Keep coding, keep learning, and always strive for excellence! 👨‍💻✨</p>
+<p id="inspirational-phrase">🎯 Code never lies, comments sometimes do. 💬</p>
 
 ---
