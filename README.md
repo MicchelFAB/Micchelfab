@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">🌐 Make it work, make it right, make it fast. 🚀</p>
+<p id="inspirational-phrase">📚 Read the manual, but write the story. Your code matters. 📖</p>
 
 ---
