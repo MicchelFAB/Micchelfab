@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 The best error message is the one that never shows up. 🔧</p>
+<p id="inspirational-phrase">✨ Every line of code you write is a step closer to creating magic. 🪄</p>
 
 ---
