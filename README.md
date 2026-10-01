@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">📚 Debugging is twice as hard as writing the code, so write your code carefully. 🤔</p>
+<p id="inspirational-phrase">🔧 Code without purpose is like a ship without a sail. Focus on the goal. 🎯</p>
 
 ---
