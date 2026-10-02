@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 Simplicity is the soul of efficiency. 🌟</p>
+<p id="inspirational-phrase">🌐 The best way to improve is to challenge yourself with real problems. 💪</p>
 
 ---
