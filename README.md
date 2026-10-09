@@ -129,6 +129,6 @@ I am a passionate student at [42 Porto](https://www.42porto.com), former at [SEA
 
 ## Inspirational Coding Phrases
 
-<p id="inspirational-phrase">💡 Stay curious, keep exploring, and don’t stop debugging! 🛠️</p>
+<p id="inspirational-phrase">🔧 Make your code readable; future you will thank you for it. 🙏</p>
 
 ---
